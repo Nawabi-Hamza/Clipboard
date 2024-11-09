@@ -4,7 +4,7 @@
 Clone the repo:
 
 ```bash
-git clone
+git clone https://github.com/Nawabi-Hamza/Clipboard-Website.git
 ```
 
 Install the dependencies:
