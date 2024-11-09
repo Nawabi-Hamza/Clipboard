@@ -1,9 +1,6 @@
-# Simple Tailwind Starter
-
-This is a simple Tailwind starter project using the Tailwind CLI. It is meant to be used as a starting point for your projects. This is the same setup used in my [Tailwind From Scratch Course](https://www.traversymedia.com/tailwind-css-course).
+# Simple Tailwind Project
 
 ## Usage
-
 Clone the repo:
 
 ```bash
@@ -28,6 +25,5 @@ npm run watch
 
 This will watch the `src/input.css` file and build it to `css/style.css`, which will be your final CSS file.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
+# `Project` 
+<img src="./Screenshot 2024-11-09 at 15-21-32 Simple Tailwind Starter.png" style="width:100%;height:100%;">
